@@ -1,13 +1,13 @@
-# 📈 News-App with Google TTS (Hindi)
+---
+title: News
+emoji: 📊
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.43.2
+app_file: app.py
+pinned: false
+short_description: News Summarization & Hindi TTS App is an AI-powered app
+---
 
-This is a Streamlit-based web application that fetches and summarizes converts it into Hindi audio using Google Text-to-Speech (gTTS). The app aims to provide quick, voice-based updates on stock trends and headlines.
-
-## 🔧 Features
-
-- 🔍 Real-time news retrieval
-- 🧠 AI-powered summarization of news (optional if added)
-- 🎙️ Hindi audio generation using Google TTS (`gTTS`)
-- 🌐 Streamlit-based interactive UI
-- 📦 Easy to deploy and run locally
-
-## 🛠️ Installation
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

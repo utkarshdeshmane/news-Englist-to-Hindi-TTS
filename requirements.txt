@@ -1,0 +1,12 @@
+streamlit
+beautifulsoup4
+requests
+transformers
+torch
+numpy
+pandas
+deep-translator
+gtts
+nltk
+keybert
+googletrans==4.0.0-rc1
